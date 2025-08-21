@@ -46,7 +46,7 @@ Support real-time streaming APIs for a more authentic experience.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/spotify-clone.git
+git clone https://github.com/maverickO4/SpotifyClone.git
 
 
 Open the project folder and run index.html in your browser.
